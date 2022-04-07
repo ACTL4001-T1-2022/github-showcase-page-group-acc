@@ -5,7 +5,7 @@ In addition, emerging talent should be considered in future years as it achieves
 
 ## Key metrics
 
-The table below outlines the key metrics that are most important in analysing the performance of our strategy and should be reported frequently. 
+The table below outlines the key metrics that are most important in analysing the performance of our strategy. 
 
 <img width="1020" alt="Screen Shot 2022-04-07 at 9 07 23 pm" src="https://user-images.githubusercontent.com/100682698/162185598-65d2b516-d253-4cf3-8ab5-7b4bc09f36bd.png">
 

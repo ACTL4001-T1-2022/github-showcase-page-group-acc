@@ -3,5 +3,6 @@
 
 The table above outlines the key metrics that are most important in analysing the performance of our strategy. 
 
+# Timeline
 <img width="980" alt="Screen Shot 2022-04-07 at 9 13 10 pm" src="https://user-images.githubusercontent.com/100682698/162186476-0abe848a-b059-43ad-be42-b5aeafeeebfb.png">
 

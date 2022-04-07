@@ -1,22 +1,9 @@
-# Actuarial Theory and Practice A
+Rarita’s revenue can be divided into three core categories: Matchday revenue, Broadcasting revenue and Commercial revenue. Other sources of revenue include loaning Rarita’s players to other nations and interest earnings. Since the value of the interest revenue is comparatively immaterial and the income from loaning Rarita’s players is pegged to the inflation rate, we shift the focus of this implementation plan to the variable sources of revenue.
 
-_"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benjamin Franklin_
+Matchday revenue is minor relative to the remaining core sources, however, it is an important driver of broadcasting and commercial revenue. For example, individuals attending the game are more likely to purchase merchandise. In addition, with the rotating geographical location of games played, individuals that are unable to travel to the stadium are more inclined to purchase the broadcast. Hence, Matchday revenue is a leading variable and must be closely monitored to ensure any early signs of changes in profitability are managed. This can be optimised through location. Population density is the highest in West Rarita, but it also possesses the lowest GDP per capita. As the broadcast is a non-excludable good, it may be optimal to stage games in areas with higher GDP per capita and population density. Central Rarita may be the most optimal location as it provides a favourable balance of GDP per capita and population density.
 
----
+![Project Revenue Increases Over the Next 10 Years](https://github.com/ACTL4001-T1-2022/github-showcase-page-group-acc/blob/647bbb1fcd76a42ad0e65b7aa1ae49f7d4fb0485/Screenshot%202022-04-07%20192815.png)
 
-### Congrats on completing the [2022 SOA Research Challenge](https://www.soa.org/research/opportunities/2022-student-research-case-study-challenge/)!
+Commercial revenue is the second largest source of revenue behind broadcasting. This category is largely comprised of sponsorship and merchandising. Merchandise sales may be used as a leading variable in monitoring the size of the fan base, while sponsorship is a lag variable and represents a large percentage of income. Regular issuance of new merchandise may improve fan interaction, and joint initiatives with sponsors will encourage strong growth in this sector. 
 
->Now it's time to build your own website to showcase your work.  
->To create a website on GitHub Pages to showcase your work is very easy.
-
-This is written in markdown language. 
->
-* Click [4001 link](https://classroom.github.com/a/ggiq0YzO) to accept your group assignment.
-* Click [5100 link](https://classroom.github.com/a/uVytCqDv) to accept your group assignment 
-
-#### Follow the [guide doc](Doc1.pdf) to submit your work. 
----
->Be creative! Feel free to link to embed your [data](player_data_salaries_2020.csv), [code](sample-data-clean.ipynb), [image](ACC.png) here
-
-More information on GitHub Pages can be found [here](https://pages.github.com/)
-![](Actuarial.gif)
+Broadcasting revenue covers all media revenue earned and is the largest driver of total revenue for Rarita. Being a lead variable, changes in viewer numbers should be monitored closely. Rarita can pursue partnerships with new media platforms to boost revenue in this sector. 

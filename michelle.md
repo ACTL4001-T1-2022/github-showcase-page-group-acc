@@ -22,7 +22,7 @@ Afterwards, a metric to evaluate each player’s proficiency was formed from the
 To measure the success of the metric, the following plot demonstrates the relationship between the average metric and the ranking of the teams in the 2021 tournament. 
 
 > Metric vs Rank
-> ![]()
+> ![](graph.png)
 
 There is an approximate relationship indicated by the graph; the higher the rank, the higher the average metric (hence performance of the team) which is in line with our assumptions. To account for any modelling/inference errors and deviations from the actual, more conservative measures were put into place in the prediction of win probabilities. 
 

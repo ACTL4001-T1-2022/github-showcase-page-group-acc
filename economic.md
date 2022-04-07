@@ -11,22 +11,21 @@ inflation, interest rates, and exchange rates was also evaluated.
 ## Analysis of revenue and expenses 
 
 The revenues generated and expenses incurred were projected over the investment horizon. The 2021
-projections of revenues and expenses were calculated by averaging the corresponding values from 2016
-to 2020, and subsequent revenues and expenses were assumed to grow at inflation. Due to the fixed
-nature of the matchday and commercial revenues, they were assumed to be the same as those from
-Rarita’s domestic leagues. However, since the games are broadcasted internationally, the broadcasting
-revenue was averaged across the 21 countries. Similarly, expenses for Rarita’s national team were
-assumed to be the same as those from Rarita’s domestic leagues, due to their fixed nature (Appendix F).
-The tournament winnings were estimated at ∂38m, in line with the 2018 FIFA World Cup – a similar
-international tournament. The winnings in each year were indexed to inflation and multiplied by the
-probability of winning, yielding the expected value of tournament winnings. Lastly, net earnings were 
-reinvested into the economy at the prevailing spot rates.
+projections were calculated by averaging the values from 2016 to 2020, and subsequent revenues and 
+expenses were assumed to grow at inflation. Due to the fixed nature of the matchday and commercial
+revenues, they were assumed to be the same as those from Rarita’s domestic leagues. However, since
+the games are broadcasted internationally, the broadcasting revenue was averaged across the 21 countries.
+Expenses for Rarita’s national team were assumed to be the same as those from Rarita’s domestic leagues, 
+due to their fixed nature. The tournament winnings were estimated at ∂38m, in line with the 2018 
+FIFA World Cup – a similar international tournament. The winnings in each year were indexed to inflation
+and multiplied by theprobability of winning, yielding the expected value of tournament winnings. Lastly, 
+net earnings were reinvested into the economy at the prevailing spot rates.
 
 ![image](https://user-images.githubusercontent.com/102963028/162158029-25bdde37-ef1c-4653-9bae-53d6d560f51d.png)
 
 
 The difference between the total expenses incurred in 2021 and the initial budget was ∂1,064,486,624.
-To ensure solvency, if these expenses were incurred before revenue was generated, this amount was
+To ensure solvency if these expenses were incurred before revenue was generated, this amount was
 borrowed as a loan with an eleven-year maturity. Interest on the loan was assumed to accrue at the
 prevailing eleven-year spot rates, and the loan was amortised with annual payments.
 
@@ -38,11 +37,11 @@ relevant spot rates. The NPV of this project was ∂5,380,735,569.79, which indi
 Countries with championship winning teams experience an increase in tourist arrivals over the two years
 following the event. Tourism contributed to 10.4% of global GDP in 2019. Applying this to Rarita results
 in tourism amounting to ∂30 billion in 2020. Extrapolating data from past FIFA winners, Rarita can
-expect an increase of 12.79% in tourists per capita over the two years following a tournament win
-(Appendix G). Furthermore, being a World Cup champion will enhance the awareness of “Rarita” as a
-brand due to the halo effect, which refers to the cognitive bias in which individuals rely on only one
-factor to influence their perceptions. This would form a positive impression of Rarita, causing it to be
-perceived as an attractive tourism destination.
+expect an increase of 12.79% in tourists per capita over the two years following a tournament win. 
+Furthermore, being a World Cup champion will enhance the awareness of “Rarita” as a brand due to the halo
+effect, which refers to the cognitive bias in which individuals rely on only one factor to influence their 
+perceptions. This would form a positive impression of Rarita, causing it to be perceived as an attractive
+tourism destination.
 
 Winning the championship would also affect Rarita’s provinces. West Rarita has the lowest GDP and
 healthcare spending per capita, while having the highest population density, indicating a lower

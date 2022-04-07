@@ -1,12 +1,15 @@
-#Economic Impact
-##Overview
+# Economic Impact
+
+## Overview
+
 The football team’s economic impact was examined by projecting revenues and expenses and
 evaluating its net present value (NPV), which was ∂5,380,735,569.79. The impact on Rarita’s economy
 was considered through indices such as gross domestic product (GDP) and gross national income (GNI),
 and the effects on tourism and Rarita’s provinces are outlined. Lastly, the sensitivity of the NPV to
 inflation, interest rates, and exchange rates was also evaluated.  
 
-##Analysis of revenue and expenses 
+## Analysis of revenue and expenses 
+
 The revenues generated and expenses incurred were projected over the investment horizon. The 2021
 projections of revenues and expenses were calculated by averaging the corresponding values from 2016
 to 2020, and subsequent revenues and expenses were assumed to grow at inflation. Due to the fixed
@@ -18,6 +21,9 @@ The tournament winnings were estimated at ∂38m, in line with the 2018 FIFA Wor
 international tournament. The winnings in each year were indexed to inflation and multiplied by the
 probability of winning, yielding the expected value of tournament winnings. Lastly, net earnings were 
 reinvested into the economy at the prevailing spot rates.
+
+![image](https://user-images.githubusercontent.com/102963028/162158029-25bdde37-ef1c-4653-9bae-53d6d560f51d.png)
+
 
 The difference between the total expenses incurred in 2021 and the initial budget was ∂1,064,486,624.
 To ensure solvency, if these expenses were incurred before revenue was generated, this amount was

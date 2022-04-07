@@ -1,4 +1,4 @@
-#Implementation Plan
+# Implementation Plan
 ## Team selection
 Using new player data each year, the team selection method should be repeated and restructured if significant improvements can be made. It is important to regularly analyse the performance of the team and to compare it with the expected outcomes and projections. It is important to adjust assumptions once experience deems them to be inaccurate. Furthermore, the selection model may be impacted by changes in regulation, and hence needs to be regularly updated.
 In addition, emerging talent should be considered in future years as it achieves a balance between cost and benefit. However, in earlier years it is important to perform at a high level as potential investors will use performance as an investment proxy.
